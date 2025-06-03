@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87614934016",
+    "project_id": "gizi-app-dd4b8",
+    "storage_bucket": "gizi-app-dd4b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87614934016:android:191570f2aa850331a7dce5",
+        "android_client_info": {
+          "package_name": "com.example.cekgizi_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuFzoSOnjTJzMMAXGOQhbgHo-vEZ7o6Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
